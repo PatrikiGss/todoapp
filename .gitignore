@@ -1,5 +1,12 @@
-__pycache__
-migrations
+
+__pycache__/
+migrations/
+venvs/
+node_modules/
+public/
+back/projetos/gestaoPecuaria/media/fotos-animais/
+venv/
+env/
 __init__.py
 admin.py
 apps.py
@@ -7,9 +14,6 @@ tests.py
 asgi.py
 wsgi.py
 manage.py
-venvs
-node_modules
-public
 babel.config.js
 jsconfig.json
 package-lock.json
@@ -18,6 +22,8 @@ vue.config.js
 front/gestao-pecuaria-frontend/README.md
 front/gestao-pecuaria-frontend/.gitignore
 .env
-back/projetos/gestaoPecuaria/media/fotos-animais
-/venv
+.gitignore:Zone.Identifier
+db.sqlite3
+test_env.py
+
 
